@@ -1,3 +1,3 @@
-module github.com/tah_costa/imersaofs-simulator
+module github.com/TahCosta/imersaofs-simulator
 
 go 1.16
